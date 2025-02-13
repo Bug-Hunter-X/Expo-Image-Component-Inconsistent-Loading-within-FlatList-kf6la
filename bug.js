@@ -1,0 +1,1 @@
+While working with Expo's `Image` component, I encountered an issue where images wouldn't load correctly, despite having the correct source URLs. The console showed no errors, and the images were simply not displayed.  This was inconsistent; sometimes images would load, and other times they wouldn't. The behavior was particularly strange within a `FlatList` component.
